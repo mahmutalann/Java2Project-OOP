@@ -46,11 +46,11 @@ public class Main {
 		System.out.println(category2.name);
 		System.out.println(category1.id);
 
-		ProductManager productManager = new ProductManager(){
+		ProductManager productManager = new ProductManager(); 
 		productManager.addToCart(product1);	
 		productManager.addToCart(product2);	
 		productManager.addToCart(product3);	
 
-	}
+	
 
 }
