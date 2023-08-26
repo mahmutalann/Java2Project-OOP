@@ -52,5 +52,5 @@ public class Main {
 		productManager.addToCart(product3);	
 
 	
-
+	}
 }
