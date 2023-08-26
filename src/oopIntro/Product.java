@@ -1,7 +1,7 @@
 package oopIntro;
 
 public class Product {
-	public Product() {	//Creating Constructor
+	public Product() {	//Creating Constructor 
 		System.out.println("product constructor text");
 	}
 	
