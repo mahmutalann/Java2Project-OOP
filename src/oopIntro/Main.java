@@ -2,7 +2,7 @@ package oopIntro;
 
 public class Main {
 
-	public static void main(String[] args) { 
+	public static void main(String[] args) {  
 	Product product1 = new Product(1, "Mac", 40000, "25 GB Ram"); //Örnek, Referans, Instance Oluşturma
 		
 		
